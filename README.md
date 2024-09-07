@@ -49,6 +49,8 @@ Para configurar e executar o **Sys Library** localmente, siga os passos abaixo:
 - yarn run dev: Inicia o servidor de desenvolvimento com hot reload.
 - yarn build: Gera uma versão otimizada do projeto para produção.
 - yarn lint: Verifica o código para garantir a qualidade e consistência.
+- yarn preview: Inicia um servidor para visualizar a versão de produção do projeto.
+
 
 ## Contribuição
 
